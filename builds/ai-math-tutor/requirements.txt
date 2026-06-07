@@ -1,0 +1,4 @@
+# AI Math Tutor — zero paid dependencies.
+# The core uses only the Python standard library.
+# sympy is optional (only if you extend questions.py with symbolic checks).
+sympy>=1.12
